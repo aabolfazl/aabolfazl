@@ -3,7 +3,7 @@
 - 🔭 I’m currently learning advanced system development in the AOSP and Linux kernel
 - 👯 I’m looking to collaborate on C++ and Java projects
 - 🚀 I participated in the WorldSkiils Mechatronics Competition 2019 and the Sharif Aviation and Robotics Competition in 2012
-- 📝 I regularly write engineering posts in English and Turkish on [Medium](https://medium.com/@abbasiabolfazlit) and Persian on [Virgool](https://virgool.io/@abbasiabolfazl)
+- 📝 I regularly write engineering posts in English and Turkish on [Medium](https://medium.com/@abbasiabolfazlit)
 - 📫 How to reach me: **abbasiabolfazlit[at]gmail[dot]com**
 
 <br>
