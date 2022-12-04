@@ -5,6 +5,3 @@
 - 🚀 I participated in the WorldSkiils Mechatronics Competition 2019 and the Sharif Aviation and Robotics Competition in 2012
 - 📝 I regularly write engineering posts in English and Turkish on [Medium](https://medium.com/@abbasiabolfazlit)
 - 📫 How to reach me: **abbasiabolfazlit[at]gmail[dot]com**
-
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabolfazl&show_icons=true&locale=en&layout=compact" alt="aabolfazl" /></p>
